@@ -1,0 +1,5 @@
+F:\Development\PS\PSSolution\RESTTesting\bin\Release\RESTTesting.exe
+F:\Development\PS\PSSolution\RESTTesting\bin\Release\RESTTesting.pdb
+F:\Development\PS\PSSolution\RESTTesting\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Development\PS\PSSolution\RESTTesting\obj\x86\Release\RESTTesting.exe
+F:\Development\PS\PSSolution\RESTTesting\obj\x86\Release\RESTTesting.pdb
